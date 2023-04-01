@@ -58,7 +58,7 @@
     "@codemirror/language": "~6.3.2",
     "@codemirror/state": "~6.2.0",
     "@codemirror/theme-one-dark": "^6.1.0",
-    "@codemirror/view": "~6.7.1",
+    "@codemirror/view": "~6.9.2",
     "@toast-ui/editor": "^3.2.1",
     "@vueuse/components": "^9.10.0",
     "@vueuse/core": "^9.10.0",
