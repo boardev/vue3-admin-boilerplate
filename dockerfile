@@ -1,5 +1,5 @@
 # 基础镜像使用Nginx
-FROM nginx
+FROM nginx:1-bullseye
 
 # 添加时区环境变量，亚洲，上海
 ENV TimeZone=Asia/Shanghai   
